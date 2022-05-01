@@ -1,0 +1,13 @@
+what = Adventurer
+where = Adventurer Guild
+init = 01/2017
+end = 12/2017
+desc = Part of Bennet Exploration Team.
+salary = 9.99
+
+what = Random Assistant
+where = Inazuma International Trade Association
+init = 01/2018
+end = 
+desc = Just doing some errands, random stuff and some other things.
+salary = 9999.99

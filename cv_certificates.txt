@@ -1,0 +1,4 @@
+title = Certificate of Nothing
+org = NOOB (No One Organization and Band)
+date = 01/02/2022
+link = https://dictionary.cambridge.org/dictionary/english/nothing

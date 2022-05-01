@@ -1,0 +1,10 @@
+name = Forename MidName Surname
+dob = 01/02/1993
+email = definitelynot@mail.com
+mobile = +XY (AB) 1234567890
+nationality = Sauville
+birthplace = Saubreme
+lives = Ritou, Narukami Island, Inazuma
+linkedin = https://www.linkedin.com/
+github =  https://github.com/
+profile_pic = https://picsum.photos/1200

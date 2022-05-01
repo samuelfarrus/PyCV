@@ -1,0 +1,6 @@
+degree = Enough
+
+institution = Sum School
+what = Did Not Fail
+init = 01/2021
+end = 01/2022

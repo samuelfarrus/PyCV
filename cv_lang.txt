@@ -1,0 +1,4 @@
+language = OX
+read = 0.80
+write = 0.50
+speak = 0.25
