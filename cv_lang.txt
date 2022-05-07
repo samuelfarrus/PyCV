@@ -1,4 +1,5 @@
 language = OX
 read = 0.80
 write = 0.50
+listen = 0.32
 speak = 0.25

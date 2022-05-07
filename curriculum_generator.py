@@ -118,6 +118,7 @@ for x in range(0, len(cv_sorting['lang_order'])):
 	content += '\t\t<p>Language: {}</p>\n'.format(which['language'])
 	content += '\t\t<p>Reading: {}</p>\n'.format(which['read'])
 	content += '\t\t<p>Writing: {}</p>\n'.format(which['write'])
+	content += '\t\t<p>Listening: {}</p>\n'.format(which['listen'])
 	content += '\t\t<p>Speaking: {}</p>\n'.format(which['speak'])
 	content += '\t</div>\n'
 	lang.append(content)
