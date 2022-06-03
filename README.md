@@ -1,6 +1,6 @@
 # PyCV
 
-Coded by [samuelfarrus](https://github.com/samuelfarrus). Last update: 07/05/2022.
+Coded by [samuelfarrus](https://github.com/samuelfarrus). Last update: 03/06/2022.
 
 ## Description
 

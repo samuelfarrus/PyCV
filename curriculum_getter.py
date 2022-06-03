@@ -166,7 +166,7 @@ for x in range(0, len(xp)):
 		dict_sort.update({xp['xp_{}'.format(x + 1)]['end']: x + 1})
 		temp_date = xp['xp_{}'.format(x + 1)]['end'].split('/')
 		temp_sort.append(dt.date(int(temp_date[1]), int(temp_date[0]), 1))
-if xp_current < 0: cv_sort_index['xp_order'].append(xp_current)
+if xp_current > 0: cv_sort_index['xp_order'].append(xp_current)
 temp_sort.sort(reverse=True)
 for x in range(0, len(temp_sort)):
 	temp_sort[x] = temp_sort[x].strftime('%m/%Y')
